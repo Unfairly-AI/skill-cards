@@ -38,5 +38,5 @@ company can use. These cards are a few of the good ones, free.
 
 ## License
 
-Our skills are MIT licensed (see [LICENSE](LICENSE)). Linked community skills keep their own
-licenses.
+Our skills are free to use and adapt for yourself or your team, but not to republish (see
+[LICENSE](LICENSE)). Linked community skills keep their own licenses.
